@@ -88,17 +88,26 @@ When a payment is confirmed, MoneyTrail records the expense while preserving the
 
 ## Screenshots
 
-### Dashboard
+<table>
+<tr>
+<td align="center">
+<b>Dashboard</b><br>
+<img src="screenshots/Home_Page.jpeg" width="250">
+</td>
 
-![Dashboard](screenshots/Home_Page.jpeg)
+<table>
+<tr>
+<td align="center">
+<b>Profile</b><br>
+<img src="screenshots/Profile_page.jpeg" width="250">
+</td>
 
-### QR Scanner
-
-![QR Scanner](screenshots/Payment_Page.jpeg)
-
-### Profile
-
-![Profile](screenshots/Profile_page.jpeg)
+<table>
+<tr>
+<td align="center">
+<b>Payment</b><br>
+<img src="screenshots/Payment_Page.jpeg" width="250">
+</td>
 
 ---
 
