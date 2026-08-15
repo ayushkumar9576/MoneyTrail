@@ -95,19 +95,18 @@ When a payment is confirmed, MoneyTrail records the expense while preserving the
 <img src="screenshots/Home_Page.jpeg" width="250">
 </td>
 
-<table>
 <tr>
 <td align="center">
 <b>Profile</b><br>
 <img src="screenshots/Profile_page.jpeg" width="250">
 </td>
 
-<table>
 <tr>
 <td align="center">
 <b>Payment</b><br>
 <img src="screenshots/Payment_Page.jpeg" width="250">
 </td>
+</table>
 
 ---
 
